@@ -1,7 +1,7 @@
-<h1 align="center">DSA Topic-Binary Search (Leaf Under Budget)</h1>
+<h1 align="center">DSA Topic-Binary Search (Level Order Traversal)</h1>
 <h2 align="center"><a href="https://practice.geeksforgeeks.org/problems/leaf-under-budget/1">Leaf under budget</a></h2>
 <hr>
-<h2>GFG-Easy</h2>
+<h2 align="center">GFG-Easy</h2>
 <h3><em>Time Complexcity</em><strong>O(N)</strong></h4>
 <h4>Traversing Every Node</h4>
 <h3><em>Space Complexcity</em><strong>O(N)</strong></h4>
