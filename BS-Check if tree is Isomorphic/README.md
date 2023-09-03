@@ -9,5 +9,5 @@
 <h3>
 <hr>
 <h2 align="center">Wrong Approach</h2>
-<h3>Make level order traversal of the binary tree(root1) and store node level wise in vector v1. For the next binary tree (root2) make level order traversal ,and reverse the nodes in a particular level and store it in vector v2. At end check if two vectors are same or not .If same return True or return false.
-<h3><strong>Why Wrong ?</strong>Two trees can have different structures (different arrangements of nodes) but still have the same values in the same order during a level-order traversal.<strong><em>WE NEED TO TAKE CARE OF THE STRUCTURE</em></strong></h3>
+<h4>Make level order traversal of the binary tree(root1) and store node level wise in vector v1. For the next binary tree (root2) make level order traversal ,and reverse the nodes in a particular level and store it in vector v2. At end check if two vectors are same or not .If same return True or return false.</h4>
+<h4><strong>Why Wrong ?</strong>Two trees can have different structures (different arrangements of nodes) but still have the same values in the same order during a level-order traversal.<strong><em>WE NEED TO TAKE CARE OF THE STRUCTURE</em></strong></h4>
