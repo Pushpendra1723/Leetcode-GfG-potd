@@ -1,3 +1,17 @@
+//Recusive approach
+
+    bool isIsomorphic(Node *root1,Node *root2)
+    {
+    //add code here.
+    if(root1==0 and root2==0)return true;
+    else if (root1==0 or root2==0) return false;
+    else if(root1->data!=root2->data)return false;
+    bool a= isIsomorphic(root1->left,root2->right) and isIsomorphic(root1->right,root2->left);
+    bool b= isIsomorphic(root1->left,root2->left) and isIsomorphic(root1->right,root2->right);
+    
+    return a or b;
+    }
+
 //-------------------------WRONG---------------------------------
    bool isIsomorphic(Node *root1,Node *root2)
     {
