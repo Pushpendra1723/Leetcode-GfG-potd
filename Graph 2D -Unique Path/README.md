@@ -8,4 +8,4 @@
 <h4>Because of visisted and ap 2d vectors.</h4>
 <hr>
 <h3 align="center">Note</h3>
-<h4>I made the mistake in the code no writting the backtracking line because ,I got two outputs one for right and other for down for first test case.</h4>
+<h4>I made the mistake in the code by not writting the backtracking line because ,I got two outputs one for right and other for down for first test case.</h4>
