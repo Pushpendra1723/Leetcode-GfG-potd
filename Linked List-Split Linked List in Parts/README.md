@@ -3,6 +3,7 @@
 <hr>
 <h2 align="center>Leetcode - Medium</h2>
 <h3><em>Time Complexcity - </em><strong></strong></h3>
-<h3><em>Space Complexcity - </em><strong></strong></h3>
-<h2 align="center">Approach</h2>
+  <h3><em>Space Complexcity - </em><strong></strong></h3>
+  <hr>
+<h2> align="center">Approach</h2>
 <h4></h4>
