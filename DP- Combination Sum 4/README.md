@@ -1,5 +1,5 @@
 <h1 align="center">DSA Topic-Dynamic Programing</h1>
-<h2 align="center" href="https://leetcode.com/problems/combination-sum-iv/description/">Combination Sum 4</h2>
+<h2 align="center"><a href="https://leetcode.com/problems/combination-sum-iv/description/">Combination Sum 4</a></h2>
 <hr>
 <h2 align="center">Leetcode-Medium</h2>
 <h3><em>Time Complexcity - </em><strong>O(target * n)</strong></h3>
