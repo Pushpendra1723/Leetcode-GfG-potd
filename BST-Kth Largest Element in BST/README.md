@@ -1,5 +1,5 @@
 <h1 align="center">DSA Topic-Binary Search Tree</h1>
-<h2 align="center" href="https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1">Kth Largets Element in BST</h2>
+<h2 align="center" ><a href="https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1">Kth Largets Element in BST</a></h2>
 <hr>
 <h2 align="center">GFG-Easy</h2>
 <h3><em>Time Complexcity - </em><strong>O(N)</strong></h3>
