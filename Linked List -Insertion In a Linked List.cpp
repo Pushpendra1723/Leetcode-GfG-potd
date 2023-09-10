@@ -1,4 +1,5 @@
-    Node *insertAtBegining(Node *head, int x) {
+//function to insert at the end of the linked list
+Node *insertAtBegining(Node *head, int x) {
        // Your code here
        Node *p=new Node(x);
        if(head==0)return p;
@@ -24,7 +25,7 @@
        last->next=q;
        return head;
     }
-
+//function to insert in the middle of the linked list
     Node* insertInMiddle(Node* head, int x)
 {
 	// Code here
