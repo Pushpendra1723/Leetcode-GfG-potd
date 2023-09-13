@@ -1,5 +1,5 @@
 <h1 align="center">DSA Topic- Array</h1>
-<h2 align="center" href="https://leetcode.com/problems/candy/description/">Candy</h2>
+<h2 align="center" ><a href="https://leetcode.com/problems/candy/description/">Candy</a></h2>
 <hr>
 <h2 align="center">Leetcode Hard</h2>
 <h3><em>Time Complexcity - </em><strong>O(N)</strong></h3>
